@@ -1,4 +1,4 @@
-### <div align="center">I'm Tim a Software Engineer graduating in 2026, Exploring Mobile and Web technologies(React) as well as Java, JavaScript, NoSQL technologies
+### <div align="center">I'm Tim, a Software Engineer graduating in 2026, Exploring Mobile and Web technologies(React) as well as Java, JavaScript, NoSQL technologies
 
 </div>  
 
