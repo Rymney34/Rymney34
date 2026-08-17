@@ -1,4 +1,4 @@
-### <div align="center">I'm Tim, a Software Engineer graduated with Firs class, Exploring Mobile and Web technologies(React) as well as Java, JS, SQL , NoSQL technologies
+### <div align="center">I'm Tim, a Software Engineer graduated with First class, Exploring Mobile and Web technologies(React) as well as Java, JS, SQL , NoSQL technologies
 
 </div>  
 
